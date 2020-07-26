@@ -6,3 +6,7 @@
 
 # the 10-based logarithm of 200 multiplied with sin of $\pi/4$
 log10(200)*sin(pi/4)
+
+
+# the cumulative sum of the numbers 1,3,18,20,2
+cumsum(c(1,3,18,20,2))
